@@ -1,0 +1,355 @@
+<?xml version="1.0"?>
+<lfm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" status="ok">
+  <topalbums artist="The Beatles" page="1" perPage="50" totalPages="5051" total="252517">
+    <album>
+      <name>Abbey Road</name>
+      <playcount>41038742</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Sgt. Pepper's Lonely Hearts Club Band</name>
+      <playcount>24117593</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Revolver</name>
+      <playcount>24742236</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Rubber Soul</name>
+      <playcount>20930450</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Magical Mystery Tour</name>
+      <playcount>14667836</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Let It Be</name>
+      <playcount>13785484</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>1</name>
+      <playcount>16917788</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Help!</name>
+      <playcount>16571629</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Please Please Me</name>
+      <playcount>13234278</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>A Hard Day's Night</name>
+      <playcount>12466664</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>With The Beatles</name>
+      <playcount>10720369</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Love</name>
+      <playcount>13346201</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Beatles for Sale</name>
+      <playcount>9680038</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Yellow Submarine</name>
+      <playcount>6082877</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>The Beatles (The White Album)</name>
+      <playcount>4243448</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>The Beatles</name>
+      <playcount>9816760</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Abbey Road (Remastered)</name>
+      <playcount>3482563</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>The Beatles 1</name>
+      <playcount>6735041</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>1 (Remastered)</name>
+      <playcount>3001676</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>The Beatles (Remastered)</name>
+      <playcount>2595654</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Help! (Remastered)</name>
+      <playcount>1558858</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Rubber Soul (Remastered)</name>
+      <playcount>1659029</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Let It Be (remastered)</name>
+      <playcount>1207265</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Please Please Me (remastered)</name>
+      <playcount>1217572</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Revolver (Remastered)</name>
+      <playcount>1776519</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Magical Mystery Tour (Remastered)</name>
+      <playcount>1554200</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Sgt. Pepper's Lonely Hearts Club Band (Remastered)</name>
+      <playcount>1720265</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Past Masters, Vol. 2</name>
+      <playcount>1700518</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Let It Be... Naked</name>
+      <playcount>2413461</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>A Hard Day's Night (Remastered)</name>
+      <playcount>1035174</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>One</name>
+      <playcount>2559216</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>White Album</name>
+      <playcount>3977943</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Early Contemporary Album (disc 1)</name>
+      <playcount>214952</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Anthology 2</name>
+      <playcount>2107774</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>The Beatles (White Album) [Disc 1]</name>
+      <playcount>2769089</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Yellow Submarine (Remastered)</name>
+      <playcount>409631</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>The Alternate Abbey Road</name>
+      <playcount>221787</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>With the Beatles (Remastered)</name>
+      <playcount>689792</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Anthology 1</name>
+      <playcount>2121544</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>The Beatles (White Album)</name>
+      <playcount>3314198</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>1962-1966</name>
+      <playcount>1658128</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>(null)</name>
+      <playcount>1201011</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Beatles For Sale (Remastered)</name>
+      <playcount>746939</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Past Masters, Volume One</name>
+      <playcount>1429512</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Past Masters</name>
+      <playcount>2464084</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Anthology 3</name>
+      <playcount>1659748</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Yesterday... and Today</name>
+      <playcount>133682</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>The Beatles (White Album) [Disc 2]</name>
+      <playcount>1346354</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Past Masters, Vol. 1</name>
+      <playcount>1121185</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+    <album>
+      <name>Hey Jude</name>
+      <playcount>740401</playcount>
+      <artist>
+        <name>The Beatles</name>
+      </artist>
+    </album>
+  </topalbums>
+</lfm>
